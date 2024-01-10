@@ -137,7 +137,7 @@ APDU_DATA=[
     #     'key':'APDU_RELIGION', 
     #     'id':'RELIGION',
     #     'desc': 'ศาสนา',
-    #     'apdu':[0x80, 0xb0, 0x01, 0x78, 0x02, 0x00, 0x01],
+    #     'apdu':[0x80, 0xb0, 0x01, 0x77, 0x02, 0x00, 0x02],
     #     'type': ThaiCIDDataType.RELIGION
     #     },
 
