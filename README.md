@@ -1,4 +1,4 @@
-# ThaiCIDHelper
+# ThaiCIDHelper [ต้นฉบับ #1]
 ## ThaiSmartCard-Python
 Thai CID Smart Card Helper <br> 
 โปรแกรมอ่านบัตรประชาชน (คนไทย) ด้วยไพธอน
