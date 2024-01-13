@@ -1,6 +1,6 @@
 # ThaiCIDHelper [#1 สำหรับ Console]
-## ThaiSmartCard-Python
-Thai CID Smart Card Helper <br> 
+## ThaiSmartCard-Reader-Python [Console]
+Thai CID Smart Card Reader Helper <br> 
 โปรแกรมอ่านบัตรประชาชน (คนไทย) ด้วยไพธอน
 ใช้อ่านข้อมูลจากบัตรประชาชน คนไทย
 
